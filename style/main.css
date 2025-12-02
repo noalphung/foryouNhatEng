@@ -3,6 +3,11 @@ html {
 }
 
 body {
+  background-image: url(6452995.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  background-size: cover;
   font-family: "Fuzzy Bubbles", sans-serif;
   margin: 0;
 }
